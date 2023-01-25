@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a86d3d64-49fc-43c3-911f-c37a3756ef97": {
+      "ProjectGuid": "a86d3d64-49fc-43c3-911f-c37a3756ef97",
+      "DisplayName": "Задача 1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

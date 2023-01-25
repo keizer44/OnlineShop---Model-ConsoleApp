@@ -1,0 +1,15 @@
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\ДОМАШНИ\Задача 1\bin\Debug\net6.0\Задача 1.exe
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\ДОМАШНИ\Задача 1\bin\Debug\net6.0\Задача 1.deps.json
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\ДОМАШНИ\Задача 1\bin\Debug\net6.0\Задача 1.runtimeconfig.json
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\ДОМАШНИ\Задача 1\bin\Debug\net6.0\Задача 1.dll
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\ДОМАШНИ\Задача 1\bin\Debug\net6.0\ref\Задача 1.dll
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\ДОМАШНИ\Задача 1\bin\Debug\net6.0\Задача 1.pdb
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\ДОМАШНИ\Задача 1\obj\Debug\net6.0\Задача 1.csproj.AssemblyReference.cache
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\ДОМАШНИ\Задача 1\obj\Debug\net6.0\Задача 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\ДОМАШНИ\Задача 1\obj\Debug\net6.0\Задача 1.AssemblyInfoInputs.cache
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\ДОМАШНИ\Задача 1\obj\Debug\net6.0\Задача 1.AssemblyInfo.cs
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\ДОМАШНИ\Задача 1\obj\Debug\net6.0\Задача 1.csproj.CoreCompileInputs.cache
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\ДОМАШНИ\Задача 1\obj\Debug\net6.0\Задача 1.dll
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\ДОМАШНИ\Задача 1\obj\Debug\net6.0\ref\Задача 1.dll
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\ДОМАШНИ\Задача 1\obj\Debug\net6.0\Задача 1.pdb
+C:\Users\Himmler\Desktop\C#\2 Курс За Напреднали\ДОМАШНИ\Задача 1\obj\Debug\net6.0\Задача 1.genruntimeconfig.cache
